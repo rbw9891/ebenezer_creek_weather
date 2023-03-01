@@ -12,6 +12,6 @@ then output decision statement and image of appropriate clothing
     - boardshorts.jpg file as generic placeholder till illustrations developed
 
 ## future development
-    - custom illustrations for multiple pieces of clothing :dark_sunglasses: 
+    - custom illustrations for multiple pieces of clothing :eyes: 
     - input from users to choose day in future
     - deployment to web
